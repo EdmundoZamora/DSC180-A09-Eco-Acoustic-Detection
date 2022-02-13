@@ -30,7 +30,7 @@ GPU
 </p>
 
 <p align="center">
-<img src="GPU_500_epochs/temporal_plots/nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
+<img src="GPU_500_epochs/nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ CPU
 </p>
 
 <p align="center">
-<img src="CPU_500_epochs/temporal_plots/nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
+<img src="CPU_500_epochs/nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
 </p>
 
 <p align="center">
