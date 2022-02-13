@@ -25,16 +25,16 @@ GPU
 </p>   
 
 <p align="center">
-<img src="GPU_500_epochs\acc.png" width="500"/>
-<img src="GPU_500_epochs\loss.png" width="500"/>
+<img src="GPU_500_epochs/acc.png" width="500"/>
+<img src="GPU_500_epochs/loss.png" width="500"/>
 </p>
 
 <p align="center">
-<img src="GPU_500_epochs\temporal_plots\nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
+<img src="GPU_500_epochs/temporal_plots/nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
 </p>
 
 <p align="center">
-<img src="GPU_500_epochs\time.png" width="400"/>
+<img src="GPU_500_epochs/time.png" width="400"/>
 </p>
 
 <p align="center">    
@@ -42,14 +42,14 @@ CPU
 </p>   
 
 <p salign="center">
-<img src="CPU_500_epochs\acc.png" width="500"/>
-<img src="CPU_500_epochs\loss.png" width="500"/>
+<img src="CPU_500_epochs/acc.png" width="500"/>
+<img src="CPU_500_epochs/loss.png" width="500"/>
 </p>
 
 <p align="center">
-<img src="CPU_500_epochs\temporal_plots\nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
+<img src="CPU_500_epochs/temporal_plots/nips4b_birds_classificationfile001_temporal_plot.png" width="1005"/>
 </p>
 
 <p align="center">
-<img src="CPU_500_epochs\500_epochs_time.PNG" width="400"/>
+<img src="CPU_500_epochs/500_epochs_time.PNG" width="400"/>
 </p>
