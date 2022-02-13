@@ -41,7 +41,7 @@ GPU
 CPU
 </p>   
 
-<p salign="center">
+<p align="center">
 <img src="CPU_500_epochs/acc.png" width="500"/>
 <img src="CPU_500_epochs/loss.png" width="500"/>
 </p>
