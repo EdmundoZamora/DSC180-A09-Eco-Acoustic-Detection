@@ -1,5 +1,5 @@
 <p align="center">
-    # TweetyNet: Eco-Acoustic Event Detection Pipeline
+    TweetyNet: Eco-Acoustic Event Detection Pipeline
 </p>
 
 ## Introduction to Eco-acoustic Event Detection
