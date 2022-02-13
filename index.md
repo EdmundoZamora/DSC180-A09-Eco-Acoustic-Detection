@@ -1,4 +1,4 @@
-# <p align="center">
+<p align="center">
     # TweetyNet: Eco-Acoustic Event Detection Pipeline
 </p>
 
