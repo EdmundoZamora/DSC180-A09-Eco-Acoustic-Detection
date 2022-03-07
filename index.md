@@ -30,7 +30,7 @@ Preliminary Results
 <img src = "spec/Attila-cinnamomeus-206109.png" />
 </p>
 
-<p align="center">
+<p >
 <img src = "spec/window 0 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
