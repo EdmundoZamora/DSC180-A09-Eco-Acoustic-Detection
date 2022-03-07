@@ -19,10 +19,12 @@ Preliminary Results
 
 ##### Both models parameters were set to 500  epochs with a batch size of 64 and a learning rate of  .005. Aside from speed in training, allowing us to train the model for larger epochs and batch sizes, is an improvement in prediction selectiveness. Predictions resulting from the GPU-adapted model have decreased in False positives and increased in true negatives. As a preliminary result consistent with our model we plan to refine the model to achieve our goal in improving temporal presence rather than the CPU’s general prediction in presence.
 
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot_rates.html %}
-
 <p align="center">
 <img src="_includes/Attila_cinn.png"/>
 </p>
+
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot_rates.html %}
+
+
 
