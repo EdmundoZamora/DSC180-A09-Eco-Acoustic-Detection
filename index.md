@@ -55,5 +55,5 @@ CPU
 </p>
 
 <p align="center">
-{% include CPU_500_epochs/500_epochs_time.PNG %}
+{% temporal_plots/classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.html %}
 </p>
