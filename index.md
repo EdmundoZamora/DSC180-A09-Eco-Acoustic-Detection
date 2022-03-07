@@ -26,7 +26,7 @@ Preliminary Results
 <img src = "PyHaViz/Attila_cinn.png" />
 </p>
 
-<p align="center">
+<p >
 <img src = "spec/Attila-cinnamomeus-206109.png" />
 </p>
 
