@@ -54,10 +54,9 @@ CPU
 <img src="CPU_500_epochs/500_epochs_time.PNG" width="400"/>
 </p>
 
-<p align="center">
-<img src="classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.png" width="1005" height="400"/>
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html width="20"%}
-</p>
+<div align="center">
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html width="20" %}
+</div>
 
 
 
