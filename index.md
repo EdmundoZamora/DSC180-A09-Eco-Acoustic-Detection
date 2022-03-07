@@ -55,12 +55,10 @@ CPU
 </p>
 
 <p align="center">
-<img src="classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.png" width="400"/>
+<img src="classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.png" width="1005" height="400"/>
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html width="20"%}
 </p>
 
-<p align="center">
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}
-</p>
 
 
 
