@@ -23,6 +23,6 @@ Preliminary Results
 {% include classificationfile_Attila-cinnamomeus-206109_temporal_plot_rates.html %}
 
 <p align="center">
-<img src="_includes/Attila_cinn.PNG"/>
+<img src="_includes/Attila_cinn.png"/>
 </p>
 
