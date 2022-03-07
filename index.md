@@ -55,5 +55,7 @@ CPU
 </p>
 
 <p align="center">
-{% include classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.html align="center" %}
+<a href = "https://github.com/EdmundoZamora/DSC180-A09-Eco-Acoustic-Detection/blob/main/classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.html">
+<img src="classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.png" width="400"/>
+</a>
 </p>
