@@ -55,5 +55,5 @@ CPU
 </p>
 
 
-{% temporal_plots/classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.html %}
+{% temporal_plots classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.html %}
 
