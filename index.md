@@ -54,10 +54,6 @@ CPU
 <img src="CPU_500_epochs/500_epochs_time.PNG" width="400"/>
 </p>
 
-<p align="center">
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html width="20" %}
-</p>
-
 {{< rawhtml >}}
 
 <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script> <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
