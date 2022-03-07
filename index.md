@@ -25,3 +25,11 @@ Preliminary Results
 <p align="center">
 <img src = "PyHaViz/Attila_cinn.png" />
 </p>
+
+<p align="center">
+<img src = "spec/Attila-cinnamomeus-206109.png" />
+</p>
+
+<p align="center">
+<img src = "spec/window 0 Accipiter-superciliosus-329800.png" />
+</p>
