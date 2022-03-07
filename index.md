@@ -55,5 +55,5 @@ CPU
 </p>
 
 <p align="center">
-{% include figure.html %}
+{% include CPU_500_epochs/500_epochs_time.PNG %}
 </p>
