@@ -59,3 +59,10 @@ CPU
 <img src="classificationfile_Attila-cinnamomeus-206109.wav_temporal_plot.png" width="400"/>
 </a>
 </p>
+
+<p align="center">
+<img src="classificationfile_Attila-cinnamomeus-206109_temporal_plot.html" width="400"/>
+</p>
+
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}{: .align center}
+
