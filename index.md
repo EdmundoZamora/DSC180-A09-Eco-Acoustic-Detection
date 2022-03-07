@@ -61,8 +61,8 @@ CPU
 </p>
 
 <p align="center">
-<img src="classificationfile_Attila-cinnamomeus-206109_temporal_plot.html" width="400"/>
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}
 </p>
 
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}{: .align center}
+
 
