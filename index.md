@@ -3,7 +3,8 @@
 
 </p>
 
-https://www.youtube.com/watch?v=7SjljRRrg2M
+
+[DSC180-A09-Eco-Acoustic-Event-Detection presentation](https://www.youtube.com/watch?v=7SjljRRrg2M)
 
 
 
