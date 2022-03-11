@@ -1,7 +1,8 @@
 <p align="center">
 <strong>TweetyNet: Eco-Acoustic Event Detection Pipeline</strong>
-</p>
 https://www.youtube.com/watch?v=7SjljRRrg2M
+</p>
+
 <br>
 
 <p align="center">
