@@ -77,16 +77,16 @@ CAPTION
 <strong>Neural Network Training Process Meta Analysis</strong>
 </p>
   
-##### The average training time for GPU Model is 1 min 10 sec and for CPU Model it is 12 min 33 sec. 
-
-##### Due to this drastic time difference, an unpooled two-sample T-test was conducted on the training accuracy and loss after 100 Epochs to validate exact implementation between the two models’ training process by investigating whether the means of both training samples (Acc/Loss) differ from one another. In such a test, the null hypothesis is that the means of both groups are the same. Each model trained a total of 15 times for 100 epochs with a batch size of 64 and a learning rate of .005 training on the same files on the same computer. The accuracy and loss were recorded for this analysis and come from their last epoch training cycle. A total of 15 accuracies and losses are logged from the CPU model(Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz) and GPU model(NVIDIA GeForce GTX 1650 with Max-Q design)
-
-##### H_0 : We lack evidence to suggest that the training process is different between models
-##### H_A : Evidence suggests that the training process is different between models
-##### Significance Level: .05
-
-##### The resulting test for both models’ training accuracy after 100 epochs yields a p-value of 0.1519. Using a 95% confidence level we can fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%. 
-##### The resulting test for both models’ training loss after 100 epochs yields a p-value of 0.1877. Using a 95% confidence level we can also fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%
+#####	The average training time for GPU Model is 1 min 10 sec and for CPU Model it is 12 min 33 sec. 
+<span style="font-size: .25em;">&nbsp;</span>
+#####	Due to this drastic time difference, an unpooled two-sample T-test was conducted on the training accuracy and loss after 100 Epochs to validate exact implementation between the two models’ training process by investigating whether the means of both training samples (Acc/Loss) differ from one another. In such a test, the null hypothesis is that the means of both groups are the same. Each model trained a total of 15 times for 100 epochs with a batch size of 64 and a learning rate of .005 training on the same files on the same computer. The accuracy and loss were recorded for this analysis and come from their last epoch training cycle. A total of 15 accuracies and losses are logged from the CPU model(Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz) and GPU model(NVIDIA GeForce GTX 1650 with Max-Q design)
+<span style="font-size: .25em;">&nbsp;</span>
+#####	H_0 : We lack evidence to suggest that the training process is different between models
+#####	H_A : Evidence suggests that the training process is different between models
+#####	Significance Level: .05
+<span style="font-size: .25em;">&nbsp;</span>
+#####	The resulting test for both models’ training accuracy after 100 epochs yields a p-value of 0.1519. Using a 95% confidence level we can fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%. 
+#####	The resulting test for both models’ training loss after 100 epochs yields a p-value of 0.1877. Using a 95% confidence level we can also fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%
 
 
 
