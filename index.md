@@ -1,8 +1,7 @@
 <p align="center">
-    TweetyNet: Eco-Acoustic Event Detection Pipeline
+<strong>TweetyNet: Eco-Acoustic Event Detection Pipeline.</strong>
 </p>
 
-<br>
 <br>
 
 <p align="center">
@@ -13,14 +12,14 @@
 
 <br>
 <p align="center">    
-Methodology
+<strong>Methodology.</strong>
 </p>   
 
 ##### Machine learning paired with signal processing methods allows for audio data to be processed and learned as image data through conversion to Mel-spectrograms which can be used by TweetyNet, a convolutional and recurrent neural net hybrid model built for the purpose of event detection in audio data. The model has been adapted to use both PyTorch and Tensorflow and has been used to replicate published results that accurately detect the presence of bird vocalizations. Audio files are first converted to spectrograms and normalized, then are passed to the model in order to generate features and truth values. Various efforts have been undertaken in order to increase the performance and usability of the model. Firstly, the model has been adapted to operate on GPUs to improve training speed and performance in results as opposed to training on more general-purpose but slower CPUs. What once took an hour to train on a CPU would take under ten minutes to train using a GPU. With this method, we are able to make use of the DSMLP’s powerful Nvidia GPUs to minimize time spent training the model on large amounts of data. In order to visualize the model’s accuracy, temporal graphs can now be generated for testing data that compares the predicted vocalizations against manually labeled vocalizations for validation. Furthermore, information on whether a prediction was a true positive, true negative, false positive, or false negative can be displayed as well to yield a confusion matrix. Work is currently being done on data ingestion in order to process training data from PyreNote, a browser-based audio annotation tool. We anticipate an improvement in prediction accuracy given the amount of data available and the length of time for those audio files after implementing the ability to train the model on Pyrenote data.
 
 <br>
 <p align="center">     
-Preliminary Results
+<strong>Preliminary Results.</strong>
 </p>    
 
 ##### Both models parameters were set to 500  epochs with a batch size of 64 and a learning rate of  .005. Aside from speed in training, allowing us to train the model for larger epochs and batch sizes, is an improvement in prediction selectiveness. Predictions resulting from the GPU-adapted model have decreased in False positives and increased in true negatives. As a preliminary result consistent with our model we plan to refine the model to achieve our goal in improving temporal presence rather than the CPU’s general prediction in presence.
