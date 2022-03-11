@@ -30,8 +30,8 @@ Preliminary Results
 <img src = "spec/Attila-cinnamomeus-206109.png" />
 </p>
 
-<p align="left">
-<img src = "spec/window 0 Accipiter-superciliosus-329800.png" />
+<p align="center">
+<img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 50 height = 50/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
@@ -42,22 +42,4 @@ Preliminary Results
 <img src = "spec/window 7 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 8 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 9 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 10 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 11 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 12 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 13 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 14 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 15 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 16 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 17 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 18 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 19 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 20 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 21 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 22 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 23 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 24 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 25 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 26 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 27 Accipiter-superciliosus-329800.png" />
 </p>
