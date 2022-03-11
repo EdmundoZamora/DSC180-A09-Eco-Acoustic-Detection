@@ -35,7 +35,6 @@ Preliminary Results
 <img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 600 height = 200/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
-<img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 3 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 4 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 5 Accipiter-superciliosus-329800.png" />
