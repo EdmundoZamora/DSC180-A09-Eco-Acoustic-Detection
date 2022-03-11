@@ -24,26 +24,51 @@
 
 ##### Both models parameters were set to 500  epochs with a batch size of 64 and a learning rate of  .005. Aside from speed in training, allowing us to train the model for larger epochs and batch sizes, is an improvement in prediction selectiveness. Predictions resulting from the GPU-adapted model have decreased in False positives and increased in true negatives. As a preliminary result consistent with our model we plan to refine the model to achieve our goal in improving temporal presence rather than the CPU’s general prediction in presence.
 
+##### Some title
 {% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}
-{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot_rates.html %}
+##### Interactive map that...
 
+##### Title
+{% include classificationfile_Attila-cinnamomeus-206109_temporal_plot_rates.html %}
+##### Interactive map that...
+
+##### Title
 <p align="center">
 <img src = "PyHaViz/Attila_cinn.png" />
 </p>
+##### Figure 1:
 
+##### Title
 <p >
 <img src = "spec/Attila-cinnamomeus-206109.png" />
 </p>
+##### Figure 2:
 
+
+##### Title
 <p align="center">
 <img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
+</p>
+##### caption
+<p align="center">
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
 <img src = "spec/window 3 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
+</p>
+##### caption
+<p align="center">
 <img src = "spec/window 4 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 5 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
+</p>
+##### caption
+<p align="center">
 <img src = "spec/window 6 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 7 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
+</p>
+##### caption
+<p align="center">
 <img src = "spec/window 8 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 9 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 </p>
+##### caption
+
