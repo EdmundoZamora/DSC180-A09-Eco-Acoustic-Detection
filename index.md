@@ -2,6 +2,8 @@
     TweetyNet: Eco-Acoustic Event Detection Pipeline
 </p>
 
+<br>
+
 <p align="center">
 Introduction to Eco-acoustic Event Detection
 </p> 
