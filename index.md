@@ -34,6 +34,7 @@ Preliminary Results
 <p align="center">
 <img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 200 height = 200/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" />
+    ### TRial
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 3 Accipiter-superciliosus-329800.png" />
