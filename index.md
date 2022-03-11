@@ -63,17 +63,17 @@ CAPTION
 <img src = "spec/window 3 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
-<span style="font-size: .25em;">&nbsp;</span>
+<br>
 <img src = "spec/window 4 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 5 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
-<span style="font-size: .25em;">&nbsp;</span>
+<br>
 <img src = "spec/window 6 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 7 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
-<span style="font-size: .25em;">&nbsp;</span>
+<br>
 <img src = "spec/window 8 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 9 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
