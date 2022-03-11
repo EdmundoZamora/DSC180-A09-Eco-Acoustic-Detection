@@ -99,7 +99,7 @@ caption
 
 <p align="center">
 <strong>Neural Network Learning Process</strong>
-<img src = "Attila-cinnamomeus-27772.png"/>
+<img src = "attila_cinn_specs/Attila-cinnamomeus-27772.png"/>
 Analysis of training process for Attila Cinnamomeus
 </p>
 
