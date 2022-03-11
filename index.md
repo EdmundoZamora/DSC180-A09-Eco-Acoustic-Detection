@@ -84,9 +84,9 @@ Window 4 and 5
 
 #####	H_0 : We lack evidence to suggest that the training process is different between models
 <span style="font-size: .25em;">&nbsp;</span>
-#####	H_A : Evidence suggests that the training process is different between models
+H_A : Evidence suggests that the training process is different between models
 <span style="font-size: .25em;">&nbsp;</span>
-#####	Significance Level: .05
+Significance Level: .05
 
 #####	The resulting test for both models’ training accuracy after 100 epochs yields a p-value of 0.1519. Using a 95% confidence level we can fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%. 
 #####	The resulting test for both models’ training loss after 100 epochs yields a p-value of 0.1877. Using a 95% confidence level we can also fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%
