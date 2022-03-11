@@ -126,6 +126,6 @@ Here we see a file of similar species. The one shown previously was used only fo
 <br>
 </p>
 
-##### Works cited
-##### Yarden Cohen, David Nicholson, Alexa Sanchioni, Emily K. Mallaber, Viktoriya Skidanova, Timothy J. Gardner Tweety Net: A neural network that enables high-throughput, automated annotation of birdsong bioRxiv 2020.08.28.272088; doi: https://doi.org/10.1101/2020.08.28.272088
+##### original authors of published work used to replicate model
+##### 1. Yarden Cohen, David Nicholson, Alexa Sanchioni, Emily K. Mallaber, Viktoriya Skidanova, Timothy J. Gardner Tweety Net: A neural network that enables high-throughput, automated annotation of birdsong bioRxiv 2020.08.28.272088; doi: https://doi.org/10.1101/2020.08.28.272088
 
