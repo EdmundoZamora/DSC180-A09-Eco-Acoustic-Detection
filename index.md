@@ -13,6 +13,7 @@ Methodology
 </p>   
 
 ##### Machine learning paired with signal processing methods allows for audio data to be processed and learned as image data through conversion to Mel-spectrograms which can be used by TweetyNet, a convolutional and recurrent neural net hybrid model built for the purpose of event detection in audio data. The model has been adapted to use both PyTorch and Tensorflow and has been used to replicate published results that accurately detect the presence of bird vocalizations. Audio files are first converted to spectrograms and normalized, then are passed to the model in order to generate features and truth values. Various efforts have been undertaken in order to increase the performance and usability of the model. Firstly, the model has been adapted to operate on GPUs to improve training speed and performance in results as opposed to training on more general-purpose but slower CPUs. What once took an hour to train on a CPU would take under ten minutes to train using a GPU. With this method, we are able to make use of the DSMLP’s powerful Nvidia GPUs to minimize time spent training the model on large amounts of data. In order to visualize the model’s accuracy, temporal graphs can now be generated for testing data that compares the predicted vocalizations against manually labeled vocalizations for validation. Furthermore, information on whether a prediction was a true positive, true negative, false positive, or false negative can be displayed as well to yield a confusion matrix. Work is currently being done on data ingestion in order to process training data from PyreNote, a browser-based audio annotation tool. We anticipate an improvement in prediction accuracy given the amount of data available and the length of time for those audio files after implementing the ability to train the model on Pyrenote data.
+
 <p align="center">     
 Preliminary Results
 </p>    
@@ -31,7 +32,7 @@ Preliminary Results
 </p>
 
 <p align="center">
-<img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 50 height = 50/>
+<img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 200 height = 200/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
