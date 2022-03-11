@@ -59,17 +59,17 @@ Analysis of training process for Attila Cinnamomeus
 <img src = "attila_cinn/window 0 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
 <img src = "attila_cinn/window 1 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
 <span style="font-size: .25em;">&nbsp;</span>
-CAPTION
+Window 0 and 1
 <br>
 <img src = "attila_cinn/window 2 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
 <img src = "attila_cinn/window 3 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
-CAPTION
+Window 2 and 3
 <br>
 <img src = "attila_cinn/window 4 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <img src = "attila_cinn/window 5 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
-CAPTION
+Window 4 and 5
 <br>
 </p>
 
