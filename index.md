@@ -60,12 +60,12 @@
 <img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
 </p>
-##### caption
+##### Caption
 <p align="center">
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
 <img src = "spec/window 3 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 </p>
-##### caption
+##### Caption
 <p align="center">
 <img src = "spec/window 4 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
 <img src = "spec/window 5 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
