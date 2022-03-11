@@ -83,17 +83,17 @@ Window 4 and 5
 #####	The resulting test for both models’ training loss after 100 epochs yields a p-value of 0.1877. Using a 95% confidence level we can also fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%
 
 <p align="center"> 
-<strong>Title</strong>
+<strong>Typical GPU(top) and CPU(bottom) Acc and Loss chart</strong>
 <br>
 <img src = "gpu_acc_loss_plot/acc.png" width = 375 height = 250/>
 <img src = "gpu_acc_loss_plot/loss.png" width = 375 height = 250/>
 <br>
-caption
+100 epochs with a batch size of 64 and a learning rate of .005 training on the same files on the same computer
 <br>
 <img src = "cpu_acc_loss/acc_1.jpg" width = 375 height = 250/>
 <img src = "cpu_acc_loss/loss_1.jpg" width = 375 height = 250/>
 <br>
-caption
+Graph curvature demonstrates a close resemblance between the two models, suggesting the training process is the same in both models.
 </p>
 <br>
 
