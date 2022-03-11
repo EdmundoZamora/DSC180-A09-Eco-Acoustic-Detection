@@ -59,28 +59,18 @@ Figure 2:
 <p align="center"> 
 <strong>Preliminary Title</strong>
 <br>
-<img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
-<img src = "spec/window 1 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
+<img src = "attila_cin/window 0 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
+<img src = "attila_cin/window 1 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
 <br>
-<img src = "spec/window 2 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
-<img src = "spec/window 3 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
+<img src = "attila_cin/window 2 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
+<img src = "attila_cin/window 3 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
 <br>
-<img src = "spec/window 4 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
-<img src = "spec/window 5 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
-<span style="font-size: .25em;">&nbsp;</span>
-CAPTION
-<br>
-<img src = "spec/window 6 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
-<img src = "spec/window 7 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
-<span style="font-size: .25em;">&nbsp;</span>
-CAPTION
-<br>
-<img src = "spec/window 8 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
-<img src = "spec/window 9 Accipiter-superciliosus-329800.png" width = 375 height = 250 />
+<img src = "attila_cin/window 4 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
+<img src = "attila_cin/window 5 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
 </p>
