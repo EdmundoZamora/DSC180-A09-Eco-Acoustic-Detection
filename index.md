@@ -98,28 +98,28 @@ caption
 <br>
 
 <p align="center">
-<strong>Neural Network Learning Process</strong>
+<strong>Neural Network Training Process Meta-Analysis</strong>
 <img src = "attila_cinn_specs/Attila-cinnamomeus-27772.png"/>
 Analysis of training process for Attila Cinnamomeus
 </p>
 
 <p align="center"> 
-<strong>Title</strong>
+<strong>windows</strong>
 <br>
 <img src = "attila_cinn_specs/window 0 Attila-cinnamomeus-27772.png" width = 375 height = 250/>
 <img src = "attila_cinn_specs/window 1 Attila-cinnamomeus-27772.png" width = 375 height = 250/>
 <br>
-caption
+noise on left, vocalization on right
 <br>
 <img src = "attila_cinn_specs/window 2 Attila-cinnamomeus-27772.png" width = 375 height = 250/>
 <img src = "attila_cinn_specs/window 3 Attila-cinnamomeus-27772.png" width = 375 height = 250/>
 <br>
-caption
+noise in both
 <br>
 <img src = "attila_cinn_specs/window 4 Attila-cinnamomeus-27772.png" width = 375 height = 250/>
 <img src = "attila_cinn_specs/window 5 Attila-cinnamomeus-27772.png" width = 375 height = 250/>
 <br>
-caption
+Here we see a file of similar species. The one shown previously was used only for classification; this one here happened to be in the training split. But what can this inform us about the model? We can see here that this training file likely had detailed annotations, windows 2, 3, and 6 are perfect examples of either background noise or other species activity; it is likely they were not selected for containing a vocalization for the species of interest. This also involves the fact that annotators are tasked with annotating the species of interest during the annotation process. This file was in the train split for training; there are two files of this kind of species in the training set out of 221 files present in the training split. This observation portrays how well the recurrent layer is learning the extracted features sequentially and maintaining relevant features during the forward pass and backward pass learning through time via BPTT backpropagation through time. It can be confidently said that this model has potential for eco-acoustic event detection/remote sensing and where future development can further its potential for multi-class species temporal classifications. 
 <br>
 </p>
 
