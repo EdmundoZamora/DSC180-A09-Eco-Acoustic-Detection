@@ -59,18 +59,18 @@ Figure 2:
 <p align="center"> 
 <strong>Preliminary Title</strong>
 <br>
-<img src = "attila_cin/window 0 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
-<img src = "attila_cin/window 1 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
+<img src = "attila_cinn/window 0 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
+<img src = "attila_cinn/window 1 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
 <br>
-<img src = "attila_cin/window 2 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
-<img src = "attila_cin/window 3 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
+<img src = "attila_cinn/window 2 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
+<img src = "attila_cinn/window 3 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
 <br>
-<img src = "attila_cin/window 4 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
-<img src = "attila_cin/window 5 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
+<img src = "attila_cinn/window 4 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
+<img src = "attila_cinn/window 5 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
 </p>
