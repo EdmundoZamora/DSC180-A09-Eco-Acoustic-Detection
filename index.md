@@ -40,19 +40,13 @@ aligned with its confusion matrix bin
 </p>
 
 <p align="center"> 
-<strong>Preliminary Title</strong>
+<strong>Resulting Temporal Classification: GPU</strong>
 <p align="center">
 <img src = "PyHaViz/Attila_cinn.png" />
 <span style="font-size: .25em;">&nbsp;</span>
-Figure 1:
-</p>
-
-
-<p align="center"> 
-<strong>Preliminary Title</strong>
 <img src = "spec/Attila-cinnamomeus-206109.png" />
 <span style="font-size: .25em;">&nbsp;</span>
-Figure 2: 
+Evidence of model learning how to classify environmental noise from origional annotation. The orange regions are what the model classifies as a vocalization.
 </p>
 
 
@@ -73,6 +67,7 @@ CAPTION
 <img src = "attila_cinn/window 5 Attila-cinnamomeus-206109.png" width = 375 height = 250 />
 <span style="font-size: .25em;">&nbsp;</span>
 CAPTION
+<br>
 </p>
 
 <p align = "center">
