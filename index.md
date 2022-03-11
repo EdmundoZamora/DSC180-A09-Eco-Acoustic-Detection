@@ -89,12 +89,20 @@ Window 4 and 5
 #####	The resulting test for both models’ training accuracy after 100 epochs yields a p-value of 0.1519. Using a 95% confidence level we can fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%. 
 #####	The resulting test for both models’ training loss after 100 epochs yields a p-value of 0.1877. Using a 95% confidence level we can also fail to reject the null hypothesis since the p-value is greater than the corresponding significance level of 5%
 
-
+<p align="center"> 
+<strong>Title</strong>
+<br>
 <img src = "gpu_acc_loss_plot/acc.png" width = 375 height = 250/>
 <img src = "gpu_acc_loss_plot/loss.png" width = 375 height = 250/>
-
-<img src = "cpu_acc_loss/acc_1.png" width = 375 height = 250/>
-<img src = "cpu_acc_loss/loss_1.png" width = 375 height = 250/>
+<br>
+caption
+<br>
+<img src = "cpu_acc_loss/acc_1.jpg" width = 375 height = 250/>
+<img src = "cpu_acc_loss/loss_1.jpg" width = 375 height = 250/>
+<br>
+caption
+<br>
+</p>
 
 <p align="center"> 
 <strong>Title</strong>
