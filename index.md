@@ -3,6 +3,8 @@
 </p>
 
 <br>
+<br>
+<br>
 
 <p align="center">
 Introduction to Eco-acoustic Event Detection
