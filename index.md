@@ -41,17 +41,20 @@ aligned with its confusion matrix bin
 
 <p align="center"> 
 <strong>Resulting Temporal Classification: GPU</strong>
-<p align="center">
 <img src = "PyHaViz/Attila_cinn.png" />
 <span style="font-size: .25em;">&nbsp;</span>
-<img src = "spec/Attila-cinnamomeus-206109.png" />
-<span style="font-size: .25em;">&nbsp;</span>
 Evidence of model learning how to classify environmental noise from origional annotation. The orange regions are what the model classifies as a vocalization.
+<br>
+ 
+<p align="center">
+<strong>Neural Network Learning Process</strong>
+<img src = "spec/Attila-cinnamomeus-206109.png" />
+Analysis of training process for Attila Cinnamomeus
 </p>
 
 
 <p align="center"> 
-<strong>Preliminary Title</strong>
+<strong>Neural Network Learning Process Windows</strong>
 <br>
 <img src = "attila_cinn/window 0 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
 <img src = "attila_cinn/window 1 Attila-cinnamomeus-206109.png" width = 375 height = 250/>
@@ -71,8 +74,8 @@ CAPTION
 </p>
 
 <p align = "center">
-  <strong>Neural Network Training Process Meta Analysis</strong>
-  </p>
+<strong>Neural Network Training Process Meta Analysis</strong>
+</p>
   
 ##### The average training time for GPU Model is 1 min 10 sec and for CPU Model it is 12 min 33 sec. 
 
