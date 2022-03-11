@@ -48,6 +48,7 @@ Evidence of model learning how to classify environmental noise from origional an
 Analysis of training process for Attila Cinnamomeus
 </p>
 
+##### Here we see the spectrogram, and below we see a 2 second window of that spectrogram, the reason why a hybrid CNN RNN network is perfect for this model involves the data itself; These 2 second windows contain temporal structure, that is the sequential order of the pixels that make up the vocalizations in the windows. These windows of the spectrogram contain 86 time bin frames, 20 milliseconds per time bin frame The Convolutional layer extracts features from these vocalizations present in the window for the recurrent layer to learn from. a feature map is created for each window by sliding a filter over all patches of the window, These extracted vocalization features are used in the Recurring layer to associate a temporal correlation to these features. In classification these learned and referenced temporal dependent features, i.e. the vocalizations or environmental noise. an influence matrix is returned for these temporal features and their presence and absence classification [1]. This results in a vector of sequential time bins and their corresponding probability that a time bin frame t in the window is either a learned vocalization  or noise, decided maximally that can be found in the annotation’s presence labels or a learned feature of environmental noise in the annotation's absence labels [1]. The window's predictions are then concatenated together to the original spectrogram's length, this can then be displayed
 
 <p align="center"> 
 <strong>Neural Network Learning Process Windows</strong>
@@ -68,10 +69,6 @@ Window 2 and 3
 Window 4 and 5
 <br>
 </p>
-
-
-##### Here we see the spectrogram, and below we see a 2 second window of that spectrogram, the reason why a hybrid CNN RNN network is perfect for this model involves the data itself; These 2 second windows contain temporal structure, that is the sequential order of the pixels that make up the vocalizations in the windows. These windows of the spectrogram contain 86 time bin frames, 20 milliseconds per time bin frame The Convolutional layer extracts features from these vocalizations present in the window for the recurrent layer to learn from. a feature map is created for each window by sliding a filter over all patches of the window, These extracted vocalization features are used in the Recurring layer to associate a temporal correlation to these features. In classification these learned and referenced temporal dependent features, i.e. the vocalizations or environmental noise. an influence matrix is returned for these temporal features and their presence and absence classification [1]. This results in a vector of sequential time bins and their corresponding probability that a time bin frame t in the window is either a learned vocalization  or noise, decided maximally that can be found in the annotation’s presence labels or a learned feature of environmental noise in the annotation's absence labels [1]. The window's predictions are then concatenated together to the original spectrogram's length, this can then be displayed
-
 
 
 <p align = "center">
