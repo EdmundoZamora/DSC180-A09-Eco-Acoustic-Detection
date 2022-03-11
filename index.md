@@ -32,7 +32,7 @@ Preliminary Results
 </p>
 
 <p align="center">
-<img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 300 height = 100/>
+<img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 400 height = 300/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 2 Accipiter-superciliosus-329800.png" />
 <img src = "spec/window 3 Accipiter-superciliosus-329800.png" />
