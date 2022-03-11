@@ -24,28 +24,38 @@
 
 ##### Both models parameters were set to 500  epochs with a batch size of 64 and a learning rate of  .005. Aside from speed in training, allowing us to train the model for larger epochs and batch sizes, is an improvement in prediction selectiveness. Predictions resulting from the GPU-adapted model have decreased in False positives and increased in true negatives. As a preliminary result consistent with our model we plan to refine the model to achieve our goal in improving temporal presence rather than the CPU’s general prediction in presence.
 
-##### Some title
+<p align="center"> 
+<strong>Preliminary Title.</strong>
+</p>
 {% include classificationfile_Attila-cinnamomeus-206109_temporal_plot.html %}
 ##### Interactive map that...
 
-##### Title
+<p align="center"> 
+<strong>Preliminary Title.</strong>
+</p>
 {% include classificationfile_Attila-cinnamomeus-206109_temporal_plot_rates.html %}
 ##### Interactive map that...
 
-##### Title
+<p align="center"> 
+<strong>Preliminary Title.</strong>
+</p>
 <p align="center">
 <img src = "PyHaViz/Attila_cinn.png" />
 </p>
 ##### Figure 1:
 
-##### Title
+<p align="center"> 
+<strong>Preliminary Title.</strong>
+</p>
 <p >
 <img src = "spec/Attila-cinnamomeus-206109.png" />
 </p>
 ##### Figure 2:
 
 
-##### Title
+<p align="center"> 
+<strong>Preliminary Title.</strong>
+</p>
 <p align="center">
 <img src = "spec/window 0 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
 <img src = "spec/window 1 Accipiter-superciliosus-329800.png" width = 375 height = 250/>
